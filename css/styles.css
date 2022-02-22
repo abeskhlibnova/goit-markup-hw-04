@@ -412,6 +412,7 @@ img {
     color: var(--primary-white-color);
     font-size: 14px;
     line-height: 1.17;
+    text-transform: uppercase;
 }
 .join-us-list {
     display: flex;
