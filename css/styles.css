@@ -215,7 +215,7 @@ img {
 .advantages.section {
     padding-bottom: 0;
 }
-.advantages-icon-list,
+
 .advantages-list {
     display: flex;
     flex-direction: row;
